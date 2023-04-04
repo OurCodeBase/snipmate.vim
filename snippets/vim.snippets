@@ -30,3 +30,11 @@ snippet ife
 	else
 		${3}
 	endif
+snippet has
+	if has('${1:module}')
+		${2:statement}
+	endif
+snippet has!
+	if !has('${1:module}')
+		${2:statement}
+	endif
