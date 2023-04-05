@@ -27,6 +27,9 @@ Plugin 'OurCodeBase/vim-snipmate'
 ## Usage
 To add own snippets, add them into the folder `.vim/bundle/snipmate.vim/snippets`
 
+## Updates
+- For the first time `kivy` snippets are added.
+
 ## Related
 
 It's highly recommended that you should to use SnipMate with [AutoComplPop](https://github.com/OurCodeBase/AutoComplPop)
